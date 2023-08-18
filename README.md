@@ -57,16 +57,18 @@ UX/UI;
 
 Smoke тестирование;
 
-Приемочное тестирование;
+Приемочное тестирование;  https://app.qase.io/project/KA?case=1&suite=1
+
+ > <p> логин:karutsa94@bk.ru </p>
+> <p> пароль uvw-jyR-PiF-v2q</p> 
+
 
 Регрессионное тестирование;
 
 Тестирование API.
 
-Была проведена (декомпозиция проекта).
-https://miro.com/app/board/uXjVPq2oTCs=/
-
-
+Была проведена
+<a href=" https://miro.com/app/board/uXjVPq2oTCs=/ ">  декомпозиция проекта.
 
 Ссылка на проект https://grin416.atlassian.net/wiki/spaces/~63769b498fd2d2d5f12cac7a/pages/2392065/1-2
 
