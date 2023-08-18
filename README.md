@@ -57,7 +57,7 @@ UX/UI;
 
 Smoke тестирование;
 
-Приемочное тестирование;  https://app.qase.io/project/KA?case=1&suite=1
+ <a href="https://app.qase.io/project/KA?case=1&suite=1 "> Приемочное тестирование
 
 Регрессионное тестирование;
 
