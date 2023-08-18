@@ -68,7 +68,7 @@ Smoke тестирование;
 Тестирование API.
 
 Была проведена
-<a href=" https://miro.com/app/board/uXjVPq2oTCs=/ ">  декомпозиция проекта.
+<a href="https://miro.com/app/board/uXjVPq2oTCs=/ ">  декомпозиция проекта.
 
 Ссылка на проект https://grin416.atlassian.net/wiki/spaces/~63769b498fd2d2d5f12cac7a/pages/2392065/1-2
 
